@@ -23,7 +23,8 @@ header {
 }
 
 .logo {
-    height: 100%;
+    margin-top: 35px;
+    height: 40%;
 }
 
 #logo {
