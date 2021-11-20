@@ -69,6 +69,8 @@ button {
     background-color: #35C2F3;
     cursor: pointer;
     border: 0px;
+    border-radius: 20px;
+
 }
 
 .container {
@@ -87,6 +89,7 @@ button {
 .layout li:hover {
     background-color: #35C2F3;
     cursor: pointer;
+    border-radius: 20px;
 }
 
 .quote {
